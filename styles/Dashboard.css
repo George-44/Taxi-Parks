@@ -1,0 +1,13 @@
+    /* || General Styles  */ 
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    height: 100vh;
+    background-color: black;
+}
